@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+
+
+header {
+    padding-top: 70px; 
+    height: 100vh;
+    background-image: url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png'), linear-gradient(to right, #D42637, #804292);
+    background-repeat: repeat;
+}
+
+h1 {
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 50px;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
+.device {
+    background-image: url('https://blackrockdigital.github.io/startbootstrap-new-age/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png');
+}
