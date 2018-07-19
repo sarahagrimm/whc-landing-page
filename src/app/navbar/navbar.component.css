@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+
+a.homeLink {
+    color: black;
+    font-weight: 200;
+    letter-spacing: 1px;
+    /* font-size: 22px; */
+    font-family: 'Catamaran', sans-serif;
+}
+
+a.homeLink:hover, a.nav-link:hover {
+    color: hsl(43, 98%, 66%);
+    transition-duration: .4s;
+}
+
+.nav-link {
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: hsl(0, 0%, 0%);
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
