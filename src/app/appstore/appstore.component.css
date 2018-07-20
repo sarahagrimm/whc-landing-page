@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+
+h1 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 70px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+section {
+    position: relative;
+    padding: 150px 0;
+    background-color: #FDCB4E;
+}
+
+.badges img {
+    height: 60px;
+    margin: 10px;
+    cursor: pointer;
+}
