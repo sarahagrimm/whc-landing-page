@@ -3,10 +3,9 @@
 section {
     background: url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-cta.jpg');
     background-size: cover;
+    background-position: center;
     padding: 250px 0;
-    top: 0;
     filter: grayscale(50%);
-    height: 100vh;
 }
 
 

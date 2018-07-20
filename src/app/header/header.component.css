@@ -2,8 +2,7 @@
 
 
 header {
-    padding-top: 70px; 
-    height: 100vh;
+    padding: 100px 0;
     background-image: url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png'), linear-gradient(to right, #D42637, #804292);
     background-repeat: repeat;
 }
@@ -11,17 +10,16 @@ header {
 h1 {
     color: white;
     font-family: 'Catamaran', sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 200;
     letter-spacing: 1px;
 }
 
 img {
-    width: 400px;
     border-radius: 5px;
     max-width: 100%;
-    height: 80vh;
-    margin-left: 100px;
+    /* height: 80vh; */
+    /* margin-left: 100px; */
 }
 
 .btn {
@@ -42,5 +40,11 @@ img {
     transition-duration: .5s;
 }
 
+.header-content {
+    max-width: 500px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 30px;
+}
 
 
