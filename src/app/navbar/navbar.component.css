@@ -4,7 +4,6 @@ a.homeLink {
     color: black;
     font-weight: 200;
     letter-spacing: 1px;
-    /* font-size: 22px; */
     font-family: 'Catamaran', sans-serif;
 }
 
@@ -20,3 +19,17 @@ a.homeLink:hover, a.nav-link:hover {
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
+
+.navbar-toggler {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    border-radius: 5px;
+    border: .4px solid lightgray;
+    padding: 7px 10px;
+    /* margin-right: 10px; */
+}
+
+/* .collapse {
+    display: none;
+} */
