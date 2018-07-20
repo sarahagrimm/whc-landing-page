@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+@import url('https://use.fontawesome.com/releases/v5.1.1/css/all.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css');
+
+
+hr {
+    max-width: 100px;
+    margin: 25px auto 0;
+    border-width: 1px;
+    border-color: rgba(34,34,34,.1);
+}
+
+i {
+    font-size: 80px;
+    margin-bottom: 15px;
+    background: linear-gradient(to left,#7b4397,#dc2430);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.features, .feature-item{
+    padding: 50px 0;
+}
+
+.features {
+    padding: 100px 0;
+}
+
+img {
+    border-radius: 5px;
+}
