@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+
+
+h1 {
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 200;
+    letter-spacing: 3px;
+}
+
+section {
+    padding: 100px 0;
+    background-color: #FDCA4C;
+}
+
+
+
+.fa-heart {
+    color: #DD4B39;
+}
+
+.fa-twitter {
+    background-color: #1DA1F2;
+
+}
+
+.fa-facebook-f {
+    background-color: #3B5998;
+}
+
+.fa-google-plus-g {
+    background-color: #DD4B39;
+}
+
+.fab {
+    line-height: 80px;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: rgba(255,255,255,.3);
+    background-color: #222;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin: 0;
+}
+
+a {
+    color: rgba(255,255,255,.3);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FDCA4C;
+    transition-duration: .5s;
+}

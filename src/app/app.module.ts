@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { AppstoreComponent } from './appstore/appstore.component';
 import { FeaturesComponent } from './features/features.component';
 import { GetStartedComponent } from './get-started/get-started.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { GetStartedComponent } from './get-started/get-started.component';
     HeaderComponent,
     AppstoreComponent,
     FeaturesComponent,
-    GetStartedComponent
+    GetStartedComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
