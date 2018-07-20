@@ -16,6 +16,29 @@ h1 {
     letter-spacing: 1px;
 }
 
-.device {
-    background-image: url('https://blackrockdigital.github.io/startbootstrap-new-age/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png');
+img {
+    width: 400px;
+    border-radius: 5px;
+    max-width: 100%;
+    height: 80vh;
+    margin-left: 100px;
 }
+
+.btn {
+    color: white;
+    background-color: transparent;
+    border-radius: 50px;
+    border: 1px solid white;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 11px;
+    padding: 15px 45px;
+    letter-spacing: 2px;
+}
+
+.btn:hover {
+    background-color: #FDCC52;
+    transition-duration: .5s;
+}
+
