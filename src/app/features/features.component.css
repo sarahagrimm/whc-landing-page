@@ -12,7 +12,6 @@ hr {
 
 i {
     font-size: 80px;
-    margin-bottom: 15px;
     background: linear-gradient(to left,#7b4397,#dc2430);
     -webkit-background-clip: text;
     background-clip: text;
@@ -29,4 +28,15 @@ i {
 
 img {
     border-radius: 5px;
+}
+
+h2, h3, p {
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 200;
+    letter-spacing: 1px;
+    margin: 20px;
+}
+
+hr {
+    margin-bottom: 40px;
 }
