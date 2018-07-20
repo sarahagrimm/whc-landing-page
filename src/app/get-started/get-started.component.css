@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:200|Lato:100,300,400');
+
+section {
+    background: url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-cta.jpg');
+    background-size: cover;
+    padding: 250px 0;
+    top: 0;
+    filter: grayscale(50%);
+    height: 100vh;
+}
+
+
+.btn {
+    color: white;
+    background-color: transparent;
+    border-radius: 50px;
+    border: 1px solid white;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 11px;
+    padding: 15px 45px;
+    letter-spacing: 2px;
+}
+
+.btn:hover {
+    background-color: #FDCC52;
+    transition-duration: .5s;
+}
+
+h2 {
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 200;
+    font-size: 80px;
+    color: white;
+}
